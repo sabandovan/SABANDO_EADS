@@ -1,4 +1,11 @@
-package model;
 
-public class User {
+package com.exchange.model;
+
+public record User(
+        int id,
+        String username,
+        String password,
+        String roles,
+        String status
+) {
 }
