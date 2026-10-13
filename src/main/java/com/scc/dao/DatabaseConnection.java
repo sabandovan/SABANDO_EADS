@@ -1,5 +1,5 @@
 
-package com.exchange.dao;
+package com.scc.dao;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

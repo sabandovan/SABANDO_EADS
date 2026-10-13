@@ -1,8 +1,8 @@
 
-package com.exchange.ui;
+package com.scc.ui;
 
-import com.exchange.dao.UserDao;
-import com.exchange.model.User;
+import com.scc.dao.UserDao;
+import com.scc.model.User;
 
 import java.util.Scanner;
 

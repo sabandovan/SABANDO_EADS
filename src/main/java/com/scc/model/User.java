@@ -1,5 +1,5 @@
 
-package com.exchange.model;
+package com.scc.model;
 
 public record User(
         int id,

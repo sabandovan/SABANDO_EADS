@@ -1,7 +1,7 @@
 
-package com.exchange.dao;
+package com.scc.dao;
 
-import com.exchange.model.User;
+import com.scc.model.User;
 
 import javax.crypto.SecretKeyFactory;
 import javax.crypto.spec.PBEKeySpec;
